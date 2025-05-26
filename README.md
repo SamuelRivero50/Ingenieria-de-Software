@@ -1,5 +1,15 @@
 # 📄 CV Generator - Generador de Currículums con Audio
 
+Proyecto para Ingeniería de Software, para el pregrado de Ingeniería de Sistemas de la Universidad EAFIT.
+
+**Código de la clase:** 6894 (Paola Noreña Cardona)
+
+## Integrantes del equipo
+- Samuel Enrique Rivero Urribarrí (Scrum Master)
+- Luis Alejandro Castrillón Pulgarín (Desarrollador)
+- Juan José Gómez (Desarrollador)
+- Juan Manuel Escobar (Desarrollador)
+
 Una aplicación Flutter web innovadora que permite crear currículums profesionales de dos formas: grabando audio con IA para extraer información automáticamente o completando un formulario manual. Utiliza Supabase como backend y genera PDFs con diseño moderno.
 
 ## 🚀 Características Principales
