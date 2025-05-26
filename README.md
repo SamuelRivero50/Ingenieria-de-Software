@@ -1,11 +1,11 @@
-[# 📄 CV Generator - Generador de Currículums con Audio](https://scanner-6c414.web.app)
+[📄 CV Generator - Generador de Currículums con Audio](https://scanner-6c414.web.app)
 
 Proyecto para Ingeniería de Software, para el pregrado de Ingeniería de Sistemas de la Universidad EAFIT.
 
 **Código de la clase:** 6894 (Paola Noreña Cardona)
 
 ## Integrantes del equipo
-- Samuel Enrique Rivero Urribarrí (Scrum Master)
+- Samuel Enrique Rivero Urribarrí (Lider de equipo)
 - Luis Alejandro Castrillón Pulgarín (Desarrollador)
 - Juan José Gómez (Desarrollador)
 - Juan Manuel Escobar (Desarrollador)
@@ -39,7 +39,7 @@ Una aplicación Flutter web innovadora que permite crear currículums profesiona
 
 ### 💾 **Base de Datos**
 - **Almacenamiento en la nube**: Utiliza Supabase para guardar información
-- **Historial de CVs**: Guarda todos los CVs creados por el usuario
+- **Historial de CVs**: Guarda la CV creada por el usuario
 - **Sincronización**: Acceso a la información desde cualquier dispositivo
 
 ## 🛠️ Tecnologías Utilizadas
@@ -51,6 +51,7 @@ Una aplicación Flutter web innovadora que permite crear currículums profesiona
 - **HTML2Canvas & jsPDF** - Generación de PDFs
 - **Google Fonts** - Tipografías modernas
 - **Audio Recording** - Grabación y reproducción de audio
+- **Escaner** - Transcripción de imagen a texto
 
 ## 📋 Requisitos Previos
 
